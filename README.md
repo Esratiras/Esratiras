@@ -17,11 +17,11 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computer Engineering at Kahramanmaraş Sütçü İmam University
+- :school: I graduated from Kahramanmaraş Sütçü İmam University and I am computer engineer.
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science`, `Software Engineering`, `Web Development`, `Software Analysis` and `Database`.
 - :thinking: I’m currently open for: `A Business or Software Analyst` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/u/0/recent).
-- :nerd_face: Always `learning new things`
+- :nerd_face: Always `learning new things` 🥰
 
 <br>
 
@@ -37,7 +37,7 @@
 	<a href="mailto:esratiraas@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Esratiras"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/esra-tiras/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/esratirass_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://medium.com/@esratiras"><img src="https://img.shields.io/badge/medium-%23E4405F.svg?style=plastic&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
 
