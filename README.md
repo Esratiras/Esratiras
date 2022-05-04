@@ -7,10 +7,12 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=Esratiras&label=Profile%20views&color=0e75b6&style=plastic" alt="Esratiras" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Esratiras" target="_blank"/> 
-	</a>
+	 <p align="center">
+	<img src="https://img.shields.io/badge/Age-23-blue" />
+	  <img src="https://img.shields.io/badge/Focus-javascript-brightgreen" />
+	  <img src="https://img.shields.io/badge/Lives-Turkey-success" />
+	  <img src="https://img.shields.io/badge/Languages-English%20%26%20Turkey-brightgreen" />
+	</p>
 </p>
 
 
