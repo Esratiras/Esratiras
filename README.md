@@ -20,7 +20,7 @@
 - :school: I am a `Junior` at Faculty of Computer Engineering at Kahramanmaraş Sütçü İmam University
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science`, `Software Engineering`, `Web Development`, `Software Analysis` and `Database`.
-- :thinking: I’m currently open for: `An Business or software analyst` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/u/0/recent).
+- :thinking: I’m currently open for: `A Business or Software Analyst` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/u/0/recent).
 - :nerd_face: Always `learning new things`
 
 <br>
@@ -66,6 +66,10 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/sass/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/SASS%20-%231572B6.svg?style=plastic&logo=sass&logoColor=white">
   </a> 
 </p>
 
@@ -139,6 +143,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Esratiras&layout=compact&theme=algolia" alt="Esratiras" /></a> </p>
 
 -----
-Credits: [7oSkaaa](https://github.com/Esratiras)
+Credits: [Esratiras](https://github.com/Esratiras)
 
 Last Edited on: 10/02/2022
