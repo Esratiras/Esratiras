@@ -17,7 +17,6 @@
 ## :sassy_man:  About me
 - :school: I am a `Junior` at Faculty of Computer Engineering at Kahramanmaraş Sütçü İmam University
 - :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning: `Computer Science`, `Software Engineering`, `Web Development`, `Software Analysis` and `Database`.
 - :thinking: I’m currently open for: `An Business or software analyst` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/u/0/recent).
 - :nerd_face: Always `learning new things`
