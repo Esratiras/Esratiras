@@ -16,7 +16,7 @@
 </p>
 
 
-## :sassy_man:  About me
+## :sassy_woman:  About me
 - :school: I graduated from Kahramanmaraş Sütçü İmam University and I am computer engineer.
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science`, `Software Engineering`, `Web Development`, `Software Analysis` and `Database`.
